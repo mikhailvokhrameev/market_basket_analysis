@@ -6,9 +6,9 @@
 Данный репозиторий содержит выполненную лабораторную работу по теме "Поиск ассоциативных правил и выявление скрытых структур в данных."
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/854228cb-f782-4976-84e6-370d97fe6bc4" width="210" height="157">
-<img src="https://github.com/user-attachments/assets/c6d0c328-526a-44ed-919b-748f6684bf94" width="210" height="157">
-<img src="https://github.com/user-attachments/assets/962b02d1-92fa-464d-94f7-b6f76a3f708d" width="210" height="157"><br>
+<img src="https://github.com/user-attachments/assets/854228cb-f782-4976-84e6-370d97fe6bc4" width="420" height="315">
+<img src="https://github.com/user-attachments/assets/c6d0c328-526a-44ed-919b-748f6684bf94" width="420" height="315">
+<img src="https://github.com/user-attachments/assets/962b02d1-92fa-464d-94f7-b6f76a3f708d" width="420" height="315"><br>
 <em>Пример графиков из лабораторной работы</em>
 </div>
 
